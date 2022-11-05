@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in electronics, computers, wwalking, drones.  
-- 🌱 I’m currently learning all sorts
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in electronics, computers, wwlking, flying drones.  
+- 🌱 I’m currently learning all sorts, everyday is a learning day.
 - 📫 How to reach me ...
 
 <!---
