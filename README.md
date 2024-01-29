@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in electronics, computers, wwlking, flying drones.  
+- 👀 I’m interested in electronics, computers, walking, flying drones.  
 - 🌱 I’m currently learning all sorts, everyday is a learning day.
 - 📫 How to reach me ...
 
