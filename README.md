@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Justin
+- 👋 Hi, I’m Juz
 - 👀 I’m interested in electronics, computers, walking, flying drones.  
 - 🌱 I’m currently learning all sorts, everyday is a learning day.
 - 📫 How to reach me ...
